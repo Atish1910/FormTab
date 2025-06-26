@@ -1,0 +1,7 @@
+.navtab {
+  cursor: pointer;
+}
+.navtab:hover {
+  cursor: pointer;
+  border: solid 2px;
+}
